@@ -1,8 +1,0 @@
-streamlit
-langchain
-chromadb
-sentence-transformers
-python-dotenv
-PyMuPDF
-python-docx
-groq

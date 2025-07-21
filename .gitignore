@@ -1,0 +1,50 @@
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Local vector databases and indexes
+chroma_db/
+faiss_index/
+
+# Streamlit cache and config
+.streamlit/
+
+# Logs
+*.log
+
+
+
+# Coverage and testing outputs
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.cache
+pytest_cache/
+
+# Misc database files (optional)
+*.sqlite3
+*.db
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini

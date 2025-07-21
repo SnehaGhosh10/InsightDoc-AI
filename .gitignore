@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FAISS index files (if persisted)
+*.index
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# pycache folders
+**/__pycache__/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Others
+*.sqlite3
+*.db

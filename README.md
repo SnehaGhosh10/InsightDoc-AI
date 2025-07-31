@@ -36,13 +36,18 @@ Traditional search lacks context and semantic understanding.
 
 🛠️ Tech Stack
 
-Component	Technology
-💻 Programming	Python
-🧠 LLM Backend	Groq API
-📚 Vector DB	FAISS
-📄 Parsing	PyPDF + LangChain
-🌐 Frontend	Streamlit
-🧩 Embeddings	Groq-compatible models
+
+💻 Programming-Python
+
+🧠 LLM Backend-Groq API
+
+📚 Vector DB-	FAISS
+
+📄 Parsing-	PyPDF + LangChain
+
+🌐 Frontend-	Streamlit
+
+🧩 Embeddings-	Groq-compatible models
 
 ⚙️ How It Works
 

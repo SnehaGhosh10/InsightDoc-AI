@@ -36,7 +36,6 @@ Traditional search lacks context and semantic understanding.
 
 🛠️ Tech Stack
 
-
 💻 Programming-Python
 
 🧠 LLM Backend-Groq API
@@ -68,11 +67,14 @@ Traditional search lacks context and semantic understanding.
 
 🪄 Industry Use Cases
 
-Domain	Application Example
 🎓 Academia	Summarize, search, or question academic papers
+
 ⚖️ Legal Teams	Understand clauses, extract legal information
+
 📊 Business Analysts	Explore key metrics or financial reports
+
 🧑‍💻 Tech Teams	Navigate through technical manuals and API docs
+
 🏢 Enterprises	Internal knowledge base Q&A for company documents
 
 🌱 Future Enhancements
